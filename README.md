@@ -39,7 +39,7 @@ The PCB thickness chosen should be as thin as possible. I've used 0.8mm PCBs and
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Macintosh Portable Battery Adapter by [Alexandre Marcoux](https://github.com/alxlab-zone66x/Apple-SWIM-Chip-Adapters) licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+HN27C301 to TC53100 by [Alexandre Marcoux](https://github.com/alxlab-zone66x/Apple-SWIM-Chip-Adapters) licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 
